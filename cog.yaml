@@ -18,3 +18,4 @@ build:
     - pip install git+https://github.com/sberbank-ai/Real-ESRGAN.git
 
 predict: "predict.py:Predictor"
+image: 'r8.im/moezilla/artjourney-anime'
